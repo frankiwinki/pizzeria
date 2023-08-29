@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
 
-- git clone `https://github.com/Gopi30k/Pizzeria.git`
+- git clone `https://github.com/frankiwinki/pizzeria`
 - `npm install` to install all angular npm packages.
 - Run sample API server using [`json-server`](https://www.npmjs.com/package/json-server) npm package. 
   - `npm install -g json-server`
